@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niels
 - 👀 I’m interested in Business IT and recently gained more interest in programming
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’ve completed courses in CSS and HTML and I'm learning Kotlin now.
 
 
 
